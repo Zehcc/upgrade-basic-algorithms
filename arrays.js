@@ -19,7 +19,3 @@ console.log(rickAndMortyCharacters[0], ',' ,rickAndMortyCharacters[rickAndMortyC
 rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
 rickAndMortyCharacters.splice(1,1);
 console.log(rickAndMortyCharacters);
-
-
-
-
